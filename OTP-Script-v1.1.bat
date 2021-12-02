@@ -64,7 +64,7 @@ echo  :: Office Tool Plus Install Script
 echo.
 echo  :: Downloading...
 
-wget -O C:\Office-Tool.zip https://otp.landian.vip/redirect/download.php?type=runtime
+wget -O \Office-Tool.zip https://otp.landian.vip/redirect/download.php?type=runtime
 
 GOTO installcheck1
 
